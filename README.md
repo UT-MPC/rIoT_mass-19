@@ -1,5 +1,6 @@
 # rIoT_mass-19
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+
 This is the repository to hold the code for rIoT in MASS 2019. 
 
 ## Getting Started
@@ -12,7 +13,7 @@ In order to test various IoT frameworks and algorithms, we implemented several s
 
 
 ## License and Citation
-The BLEnd scheduler and the sample projects are released under the BSD 3-Clause license.
+This project is released under the BSD 3-Clause license.
 
 Please use the following reference in your publications if this project helps your research:
 
