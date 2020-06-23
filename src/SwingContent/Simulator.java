@@ -250,10 +250,10 @@ public class Simulator extends JPanel implements ActionListener {
 
 
         switch (picked){
-            case 4:
+            case 1:
                 CASAS_Play("data/hh118");
                 break;
-            case 5:
+            case 2:
                 simDataset("data/hh107");
                 break;
             default:
